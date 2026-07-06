@@ -1,0 +1,32 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f9f6f0"/>
+      <stop offset="0.55" stop-color="#f1ebe0"/>
+      <stop offset="1" stop-color="#e9e0d2"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="0.82" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#7d9079" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#7d9079" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="0.08" cy="0.92" r="0.6">
+      <stop offset="0" stop-color="#c17a58" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#c17a58" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+  <text x="100" y="150" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="24" letter-spacing="7" fill="#5f7259">SHIJIMIWORKS INTERIOR DESIGN CONSULTING</text>
+  <text x="96" y="290" font-family="Georgia, serif" font-size="88" fill="#2c2822">色と素材で、</text>
+  <text x="96" y="400" font-family="Georgia, serif" font-size="88" fill="#2c2822">空間の印象を<tspan fill="#c17a58">整える</tspan>。</text>
+  <text x="100" y="475" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="28" fill="#5c554b">住宅・店舗・オフィスの空間デザインコンサルティング</text>
+  <g transform="translate(100,540)">
+    <circle cx="16" cy="0" r="16" fill="#e7e0d2"/>
+    <circle cx="52" cy="0" r="16" fill="#7d9079"/>
+    <circle cx="88" cy="0" r="16" fill="#c17a58"/>
+    <circle cx="124" cy="0" r="16" fill="#a98b6f"/>
+    <circle cx="160" cy="0" r="16" fill="#33404b"/>
+  </g>
+  <text x="300" y="548" font-family="'Hiragino Kaku Gothic ProN', sans-serif" font-size="20" letter-spacing="2" fill="#918a7d">Color &#183; Wallpaper &#183; Furniture &#183; Lighting</text>
+</svg>
